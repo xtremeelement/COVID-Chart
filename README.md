@@ -6,6 +6,11 @@ Includes the New Cases, New Deaths, New Hospitalizations, Percentage Positive. I
 so I decided to make one.
 
 Feel free to download and share!
+ ### Technology Used
+ ..* Python
+ ..* John Hopkins Covid Data
+ ..* Plotly
+
 
 ***
 Screenshot:
